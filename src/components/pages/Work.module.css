@@ -1,0 +1,24 @@
+.glasses{
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.eightball{
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+
+.dash{
+     width: 100%;
+    background-color: black;
+    height: 1px;
+    line-height: 1rem;
+}
+
+.des{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
